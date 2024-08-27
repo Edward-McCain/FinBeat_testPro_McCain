@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FinBeat_TestProject_McCain.props" />
+</Project>
